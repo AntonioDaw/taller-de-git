@@ -1,5 +1,5 @@
 <?php
-
+// Autor: Antonio Fernandez Alvarez
 class HolaMundo
 {
    private $nombre;

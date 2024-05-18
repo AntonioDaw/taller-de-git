@@ -1,5 +1,5 @@
 <?php
-// Autor: Sergio Gómez <sergio@uco.es>
+// Autor: Antonio Fernandez Alvarez
 require('HolaMundo.php');
 
 print "Introduce tu nombre:";
